@@ -1,0 +1,14 @@
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.deps.json
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.runtimeconfig.json
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.runtimeconfig.dev.json
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.dll
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.pdb
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.csprojAssemblyReference.cache
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.csproj.CoreCompileInputs.cache
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.RazorAssemblyInfo.cache
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.RazorAssemblyInfo.cs
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.AssemblyInfoInputs.cache
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.AssemblyInfo.cs
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.RazorTargetAssemblyInfo.cache
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.dll
+D:\Works\my_projects\API\Angular-Dotnetcore\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.pdb
